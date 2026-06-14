@@ -1,4 +1,4 @@
-# Oliyad Beto - Software Engineer Portfolio 2.0
+# Oliyad Portfolio 2.0
 
 A clean, modern, and fully responsive personal portfolio website designed to showcase my software engineering journey, technical skill set, and professional projects. Built using semantic HTML5, clean CSS3 layouts, and vanilla JavaScript.
 
